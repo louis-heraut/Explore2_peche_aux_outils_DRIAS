@@ -573,3 +573,4 @@ ggsave(plot=plot,
                                  gsub(" ", "_", indicateur_to_display),
                                  ".pdf")),
        width=30, height=10, units="cm")
+
